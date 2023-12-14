@@ -1,4 +1,4 @@
-//Write a C program to find the sum of a 1D array using malloc()
+//Week 9 - i) Write a C program to find the sum of a 1D array using malloc()
 #include<stdio.h>
 #include<stdlib.h>
 int main()
