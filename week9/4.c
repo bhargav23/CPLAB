@@ -1,4 +1,4 @@
-// ii) Write a C program to find the total, average of n students using structures
+// iv) Read student name and marks from the command line and display the student details along with the total.
 #include<stdio.h>
 	struct student{
 		char name[50];
